@@ -1,0 +1,1 @@
+copy C:\Users\kirill.karmeev\Documents\repos\SandboxSNS\SwsSrc\Installers\SwsInstaller\bin\x64\Release\* C:\Users\kirill.karmeev\Documents\VMSharedFolder\hui /Y
